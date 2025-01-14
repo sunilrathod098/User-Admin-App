@@ -28,6 +28,7 @@ A simple user administration application built with Node.js, Express.js, and Mon
 - Admin access: `GET /api/user/admin`
 
 ## Project Structure
+```sh
 User-Admin-App/ 
 │ ├── src/ 
 │ ├── index.js 
@@ -38,6 +39,7 @@ User-Admin-App/
 ├── .env 
 ├── package.json 
 ├── README.md
+```
 
 
 ## Environment Variables
